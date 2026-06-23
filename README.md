@@ -1,2 +1,2 @@
 # invoice-challenge
-Modular Laravel API &amp; Vue.js Invoice Management System
+Modular ERP-style Invoice Management System using Laravel, Vue.js, DTOs and Repository Pattern
